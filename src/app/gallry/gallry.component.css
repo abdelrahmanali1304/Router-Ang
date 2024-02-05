@@ -1,0 +1,15 @@
+
+h3{
+    color: #2C3E50;
+    font-weight: 900;
+    font-size:xx-large;
+}
+.line {
+  width: 80px;
+  height: 4px;
+  background-color:#2C3E50;
+}
+.fa-star {
+  margin-right: 10px;
+  color: #2C3E50;
+}
